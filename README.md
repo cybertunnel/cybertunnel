@@ -19,7 +19,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="left" height=128 width=128 src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker-tile.svg" /><img align="left" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio icon" /><img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go Language logo" /><img align="left" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ logo" /><img align="left" src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" alt="Swift logo" /><img align="left" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python logo" />
+<p>
+    <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker-tile.svg" />
+    <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio icon" />
+    <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go Language logo" />
+    <img align="left" height=64 width=64 src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ logo" />
+    <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" alt="Swift logo" />
+    <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python logo" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybertunnel&show_icons=true&locale=en&layout=compact" alt="cybertunnel" /></p>
 
