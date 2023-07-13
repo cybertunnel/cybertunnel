@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/tyler-morgan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyler-morgan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="display: block; width: 100%;">Languages and Tools:</h3>
 <p>
     <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker-tile.svg" />
     <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio icon" />
@@ -27,8 +27,6 @@
     <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" alt="Swift logo" />
     <img align="left" height=64 width=64 src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python logo" />
 </p>
-
-<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybertunnel&show_icons=true&locale=en&layout=compact" alt="cybertunnel" /></p>
 
